@@ -1,0 +1,21 @@
+header {
+    height: 50px;
+    font-size: 200%;
+    text-align: center;
+
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: blue;
+}
+
+h2 {
+    color: aquamarine;
+
+}
